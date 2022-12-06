@@ -1,0 +1,27 @@
+{
+  "name": "@rahul-raghavan/card-expiry-validation",
+  "version": "1.0.0",
+  "description": "Check the Card is expired or not by compairing with current month and year.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahulnfc/card-expiry-validation.git"
+  },
+  "keywords": [
+    "card-expiry-validation",
+    "check-card-expiry",
+    "credit-card-validation"
+  ],
+  "author": "Rahul Karuvadath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahulnfc/card-expiry-validation/issues"
+  },
+  "homepage": "https://github.com/rahulnfc/card-expiry-validation#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
